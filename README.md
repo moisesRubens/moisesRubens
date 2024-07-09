@@ -1,9 +1,3 @@
-<<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
