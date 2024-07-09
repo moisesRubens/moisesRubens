@@ -44,24 +44,6 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###itter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moisesRubens.moisesRubens&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
