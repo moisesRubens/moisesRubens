@@ -45,11 +45,3 @@
 ###
 
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🚀 constant learning<br>- ⚡I like romance books and music</p>
-
-###
-
